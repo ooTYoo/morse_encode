@@ -17,7 +17,7 @@ SRCS = main.c morse.c
 OBJS = $(SRCS:.c=.o)
 
 #define the executable fiel
-MAIN = morsetest
+MAIN = MorseCoding
 
 .PHONY: depend clean
 
